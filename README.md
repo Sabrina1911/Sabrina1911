@@ -1,10 +1,8 @@
-## Academic & Technical Portfolio
+# Professional Portfolio & Project Showcase
 
-I am a Software Engineering Co-op student with experience in Software Testing (Manual & Automation) and Business Analysis, currently transitioning into Applied Artificial Intelligence & Machine Learning.
+I am a Business Analyst, Quality Assurance professional, and AI practitioner with experience in software testing, intelligent systems, and AI-enabled solutions. I enjoy bridging business needs with technology to build reliable, scalable, and practical software systems.
 
-My work focuses on system efficiency, intelligent automation, and responsible AI design, with an emphasis on building solutions that are not only functional, but scalable, interpretable, and energy-aware.
-
-This GitHub profile showcases curated academic and technical projects that reflect my progression from quality engineering and system validation → AI-driven systems and optimization.
+This portfolio showcases projects across Business Analysis, Software Quality Assurance, AI/ML, and software engineering. My work emphasizes intelligent automation, responsible AI, system optimization, and building solutions that deliver measurable real-world impact.
 
 ---
 
@@ -19,14 +17,16 @@ It is built as a modular Python pipeline with a Streamlit-based interactive inte
 * Optimizes LLM instruction prompts using a T5-based rewriter model
 * Preserves protected content (e.g., transcripts, structured payloads) without modification
 * Applies semantic safety checks using embedding similarity
-Compares:
-- Rule-based optimization
-- Learned (model-based) optimization
-Measures:
-- Token reduction
-- Efficiency gains
-- Output consistency
-*Why it matters**
+
+  Compares:
+  - Rule-based optimization
+  - Learned (model-based) optimization
+
+  Measures:
+  - Token reduction
+  - Efficiency gains
+  - Output consistency
+*Why it matters*
 
 * Promotes responsible AI usage (not blind optimization)
 * Connects model efficiency → energy consumption → sustainability
@@ -128,4 +128,4 @@ Focused on applying AI techniques to practical system-level problems.
 ---
 
 **Contact**  
-Sgeorgekarippat1911@conestogac.on.ca
+sabrinavivianthomas@gmail.com
